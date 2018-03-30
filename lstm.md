@@ -1,3 +1,4 @@
+#用LSTMl来做手写识别数据集
 # -*- coding: utf-8 -*-
 """
 Created on Fri Mar 30 10:23:02 2018
